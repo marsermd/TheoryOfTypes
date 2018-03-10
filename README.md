@@ -1,2 +1,0 @@
-# TheoryOfTypes
-Writing Lambda Calculus
